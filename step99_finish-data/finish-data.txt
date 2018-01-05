@@ -1,0 +1,62 @@
+<!-- wp:core/cover-image {"url":"https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-lightning-talk.jpg","align":"full","id":85,"dimRatio":0,"className":"main-visual-block"} -->
+<section class="wp-block-cover-image main-visual-block" style="background-image: url('https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-lightning-talk.jpg');">
+<h2><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordpress-logo-stacked-rgb.png" width="388" height="241" /><br />WordPress は美しいサイトやブログ、アプリを作るためのオープンソースソフトウェアです</h2>
+</section>
+<!-- /wp:core/cover-image -->
+<p>&nbsp;</p>
+<!-- wp:core/text-columns {"columns":3,"width":"center","className":"point-block"} -->
+<section class="wp-block-text-columns aligncenter columns-3 point-block">
+<div class="wp-block-column">
+<p>らくらくインストール<br />導入時間たったの３分</p>
+</div>
+<div class="wp-block-column">
+<p>豊富なテーマ<br />5,000種類以上</p>
+</div>
+<div class="wp-block-column">
+<p>豊富なプラグイン<br />53,000種類以上</p>
+</div>
+</section>
+<!-- /wp:core/text-columns -->
+<p>&nbsp;</p>
+<!-- wp:core/text-columns {"width":"center"} -->
+<section class="wp-block-text-columns aligncenter columns-2">
+<div class="wp-block-column">
+<p>https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/</p>
+</div>
+<div class="wp-block-column">
+<p>https://wordpress.tv/2017/10/04/takayuki-miyauchi-wordpress-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89/</p>
+</div>
+</section>
+<!-- /wp:core/text-columns -->
+<p>&nbsp;</p>
+<!-- wp:core/image {"id":170,"align":"wide"} -->
+<figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-opening-talk.jpg" alt="" /></figure>
+<!-- /wp:core/image -->
+<p>&nbsp;</p>
+<!-- wp:core/heading {"align":"center","className":"headline"} -->
+<h2 class="headline" style="text-align: center;">利用者の声</h2>
+<!-- /wp:core/heading -->
+<p>&nbsp;</p>
+<!-- wp:core/quote {"className":"users-voice-block"} -->
+<blockquote class="wp-block-quote users-voice-block">
+<p>エキサイティングな気持ち！</p>
+<cite>大阪府在住　ゴウテンさん</cite></blockquote>
+<!-- /wp:core/quote -->
+<p>&nbsp;</p>
+<!-- wp:core/quote {"className":"users-voice-block"} -->
+<blockquote class="wp-block-quote users-voice-block">
+<p>最高だ！</p>
+<cite>愛知県在住　オノさん</cite></blockquote>
+<!-- /wp:core/quote -->
+<p>&nbsp;</p>
+<!-- wp:core/heading {"align":"center","className":"headline"} -->
+<h2 class="headline" style="text-align: center;">お問い合わせ</h2>
+<!-- /wp:core/heading -->
+<p>&nbsp;</p>
+<!-- wp:core/shortcode -->
+<p>[contact-form-7 id="71" title="コンタクトフォーム 1"]</p>
+<!-- /wp:core/shortcode -->
+<p>&nbsp;</p>
+<!-- wp:core/image {"id":83,"align":"center","width":294,"height":20,"className":""} -->
+<figure class="wp-block-image aligncenter" style="width: 294px;"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/codeispoetry-rgb.png" alt="" width="294" height="20" /></figure>
+<!-- /wp:core/image -->
