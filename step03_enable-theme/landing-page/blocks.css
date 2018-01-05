@@ -1,0 +1,158 @@
+/**
+ * コンテンツ領域の定義
+ */
+
+html,
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+}
+
+#contents {
+    margin: 0 auto;
+    max-width: 970px;
+}
+
+.headline {
+    color: #21759b;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+
+/**
+ * ワイド幅、全幅のスタイル定義
+ */
+
+.alignwide {
+    width: calc(100% + 200px);
+    margin: 0 0 1rem -100px;
+}
+
+.alignfull {
+    width: calc(100% + 100vw);
+    margin: 0 0 1rem -50vw;
+}
+
+.alignfull img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100vw;
+    height: auto;
+}
+
+
+/**
+ * 全幅カバーブロック
+ */
+
+.main-visual-block {
+    font-size: 1rem;
+    position: relative;
+    min-height: 550px;
+    width: calc(100% + 100vw);
+    margin: 0 0 0 -50vw;
+    background-position: center center;
+}
+
+.main-visual-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.main-visual-block h2 {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #464646;
+    max-width: 770px;
+    text-align: center;
+}
+
+.main-visual-block h2 img {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+
+/**
+ * ポイントブロック
+ */
+
+.point-block {
+    margin: 20px 0 0;
+}
+
+.point-block .wp-block-column {
+    font-size: 1.6rem;
+    color: #ffffff;
+    background-color: #d54e21;
+    text-align: center;
+    font-weight: bold;
+    font-feature-settings: "palt";
+}
+
+
+/**
+ * 利用者の声ブロック
+ */
+
+.users-voice-block {
+    margin: 20px auto;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    color: #d54e21;
+    position: relative;
+    padding: 3rem 2rem;
+    background: #f0f0f0;
+}
+
+.users-voice-block p {
+    margin: 0;
+}
+
+.users-voice-block cite {
+    display: block;
+    color: #464646;
+    font-size: 1rem;
+    font-weight: normal;
+}
+
+
+/**
+ * お問い合わせブロック
+ */
+
+#contents .wpcf7 input,
+#contents .wpcf7 textarea {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    padding: 0.6em;
+    border-radius: 5px;
+}
+
+#contents .wpcf7 input[type=submit] {
+    max-width: 300px;
+    margin: 1rem auto;
+    background: #21759b;
+    color: #ffffff;
+    border-radius: 5px;
+}
