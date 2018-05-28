@@ -1,32 +1,32 @@
 /*
-Theme Name: LandingPage
+Theme Name: Gutenberg Challenge
 */
 
 html,
 body {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
-    font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	font-family: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
 }
 
 #contents {
-    margin: 0 auto;
-    max-width: 970px;
+	margin: 0 auto;
+	max-width: 970px;
 }
 
 .headline {
-    color: #21759b;
+	color: #21759b;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 iframe {
-    max-width: 100%;
+	max-width: 100%;
 }
 
 
