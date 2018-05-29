@@ -5,7 +5,7 @@
 /**
  * ワイド幅、全幅のスタイル定義
  */
- .alignwide {
+.alignwide {
     width: calc(100% + 200px);
     margin: 0 0 1rem -100px;
 }
