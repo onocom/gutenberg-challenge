@@ -27,17 +27,6 @@ function lp_setup_theme() {
 
 	add_theme_support( 'title-tag' );
 	
-	// Gutenberg support
-	add_theme_support( 'gutenberg', array(
-		'wide-images' => true,
-		'colors' => array(
-			'#21759b', /* WordPress Blue */
-			'#d54e21', /* WordPress Orange */
-			'#464646', /* WordPress Grey */
-			'#ffffff'  /* White */
-		)
-	) );
-
 	// Gutenberg Wide Alignment
 	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#wide-alignment
 	add_theme_support( 'align-wide' );
