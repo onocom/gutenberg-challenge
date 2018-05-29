@@ -16,10 +16,6 @@ body {
 	max-width: 970px;
 }
 
-.headline {
-	color: #21759b;
-}
-
 img {
 	max-width: 100%;
 	height: auto;
@@ -29,33 +25,6 @@ iframe {
 	max-width: 100%;
 }
 
-
-/* =Gutenberg Block Color Palettes
-https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#block-color-palettes
--------------------------------------------------------------- */
-.has-wordpress-blue-background-color {
-	background-color: #21759b;
-}
-
-.has-wordpress-blue-color {
-	color: #21759b;
-}
-
-.has-wordpress-orange-background-color {
-	background-color: #d54e21;
-}
-
-.has-wordpress-orange-color {
-	color: #d54e21;
-}
-
-.has-wordpress-gray-background-color {
-	background-color: #464646;
-}
-
-.has-wordpress-gray-color {
-	color: #464646;
-}
 
 
 /* =WordPress Core Style

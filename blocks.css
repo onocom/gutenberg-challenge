@@ -5,8 +5,7 @@
 /**
  * ワイド幅、全幅のスタイル定義
  */
-
-.alignwide {
+ .alignwide {
     width: calc(100% + 200px);
     margin: 0 0 1rem -100px;
 }
@@ -23,6 +22,33 @@
     height: auto;
 }
 
+/**
+ * カラーパレットの背景色を定義
+ * https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#block-color-palettes
+ */
+.has-wordpress-blue-background-color {
+	background-color: #21759b;
+}
+
+.has-wordpress-blue-color {
+	color: #21759b;
+}
+
+.has-wordpress-orange-background-color {
+	background-color: #d54e21;
+}
+
+.has-wordpress-orange-color {
+	color: #d54e21;
+}
+
+.has-wordpress-gray-background-color {
+	background-color: #464646;
+}
+
+.has-wordpress-gray-color {
+	color: #464646;
+}
 
 /**
  * 全幅カバーブロック
