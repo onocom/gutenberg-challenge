@@ -18,15 +18,16 @@ https://ja.wordpress.org/plugins/gutenberg/
 https://ja.wordpress.org/plugins/contact-form-7/
 ## Gutenberg Challengeの流れ
 ### リポジトリをダウンロード
+リポジトリをテーマディレクトリ内（/wp-content/themes/）に展開します。
 https://github.com/onocom/gutenberg-challenge
 ### 完成予定のデザインをチェックする
-step01_check-finish-design-data ディレクトリ内に完成予定のデザインが格納されています（PDF/PNG/XD形式どれを見てもらっても同じデザインです）。
+00_data/step01_check-finish-design-data ディレクトリ内に完成予定のデザインが格納されています（PDF/PNG/XD形式どれを見てもらっても同じデザインです）。
 ### 使用する画像をWordPressのメディアライブラリに登録する
-step02_import-images ディレクトリ内の画像をメディアライブラリにすべてアップロードします。
+00_data/step02_import-images ディレクトリ内の画像をメディアライブラリにすべてアップロードします。
 ### テーマを有効化する
-step03_enable-theme ディレクトリ内の「landing-page」テーマを有効化します。
+Gutenberg Challenge テーマを有効化します。
 ### Gutenbergエディタを使ってページを作る
 完成予定のデザインを照らし合わせながら、Gutenbergの各ブロックを駆使してページを作りましょう。
 Gutenbergだけでは完成形には出来ないと思うので、blocks.css内のクラスを適宜設定してあげてください。
 ### 完成例を見て、自分の作ったページと比べてみる
-step99_finish-data ディレクトリ内の「finish-data.txt」を開き、すべての内容をコピーして、新規固定ページのCodeEditorにて貼り付けると、完成例を見ることが出来ます。自分が作ったページと比べてみましょう。
+00_data/step99_finish-data ディレクトリ内の「finish-data.txt」を開き、すべての内容をコピーして、新規固定ページのCodeEditorにて貼り付けると、完成例を見ることが出来ます。自分が作ったページと比べてみましょう。
