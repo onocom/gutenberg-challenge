@@ -35,16 +35,20 @@ function lp_setup_theme() {
 	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#block-color-palettes
 	add_theme_support( 'editor-color-palette',
 		array(
-			'name' => 'WordPress Blue',
+			'name' => 'Blue',
 			'color' => '#21759b',
 		),
 		array(
-			'name' => 'WordPress Orange',
+			'name' => 'Orange',
 			'color' => '#d54e21',
 		),
 		array(
-			'name' => 'WordPress Gray',
+			'name' => 'Gray',
 			'color' => '#464646',
+		),
+		array(
+			'name' => 'White',
+			'color' => '#ffffff',
 		)
 	);
 

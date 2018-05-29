@@ -1,62 +1,67 @@
-<!-- wp:core/cover-image {"url":"https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-lightning-talk.jpg","align":"full","id":85,"dimRatio":0,"className":"main-visual-block"} -->
-<section class="wp-block-cover-image main-visual-block" style="background-image: url('https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-lightning-talk.jpg');">
-<h2><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordpress-logo-stacked-rgb.png" width="388" height="241" /><br />WordPress は美しいサイトやブログ、アプリを作るためのオープンソースソフトウェアです</h2>
-</section>
-<!-- /wp:core/cover-image -->
-<p>&nbsp;</p>
-<!-- wp:core/text-columns {"columns":3,"width":"center","className":"point-block"} -->
-<section class="wp-block-text-columns aligncenter columns-3 point-block">
-<div class="wp-block-column">
-<p>らくらくインストール<br />導入時間たったの３分</p>
+<!-- wp:cover-image {"url":"https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-lightning-talk.jpg","align":"full","id":29,"hasParallax":true,"dimRatio":30,"className":"main-visual-block"} -->
+<div class="wp-block-cover-image has-background-dim-30 has-background-dim has-parallax alignfull main-visual-block" style="background-image:url(https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-lightning-talk.jpg)">
+	<p class="wp-block-cover-image-text"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordpress-logo-stacked-rgb.png" alt="" width="373" height="232" /><br/>WordPressは美しいサイトやブログ、アプリを作るためのオープンソースソフトウェアです。</p>
 </div>
-<div class="wp-block-column">
-<p>豊富なテーマ<br />5,000種類以上</p>
+<!-- /wp:cover-image -->
+
+<!-- wp:columns {"columns":3,"className":"point-block"} -->
+<div class="wp-block-columns has-3-columns point-block">
+	<!-- wp:paragraph {"align":"center","textColor":"White","backgroundColor":"Orange","customFontSize":24,"layout":"column-1"} -->
+	<p style="font-size:24px;text-align:center" class="has-background has-white-color has-orange-background-color layout-column-1"><strong>らくらくインストール</strong><br/><strong> 導入時間たったの３分</strong></p>
+	<!-- /wp:paragraph -->
+
+	<!-- wp:paragraph {"align":"center","textColor":"White","backgroundColor":"Orange","customFontSize":24,"layout":"column-2"} -->
+	<p style="font-size:24px;text-align:center" class="has-background has-white-color has-orange-background-color layout-column-2"><strong>豊富なテーマ</strong><br/><strong> 5,000種類以上</strong></p>
+	<!-- /wp:paragraph -->
+
+	<!-- wp:paragraph {"align":"center","textColor":"White","backgroundColor":"Orange","customFontSize":24,"layout":"column-3"} -->
+	<p style="font-size:24px;text-align:center" class="has-background has-white-color has-orange-background-color layout-column-3"><strong>豊富なプラグイン</strong><br/><strong> 53,000種類以上﻿</strong></p>
+	<!-- /wp:paragraph -->
 </div>
-<div class="wp-block-column">
-<p>豊富なプラグイン<br />53,000種類以上</p>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"className":"movie-block"} -->
+<div class="wp-block-columns has-2-columns movie-block">
+	<!-- wp:core-embed/wordpress-tv {"url":"https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/","type":"video","providerNameSlug":"","layout":"column-1"} -->
+	<figure class="wp-block-embed-wordpress-tv wp-block-embed is-type-video layout-column-1">
+		https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/
+	</figure>
+	<!-- /wp:core-embed/wordpress-tv -->
+
+	<!-- wp:core-embed/wordpress-tv {"url":"https://wordpress.tv/2017/10/04/takayuki-miyauchi-wordpress-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89/","type":"video","providerNameSlug":"","layout":"column-2"} -->
+	<figure class="wp-block-embed-wordpress-tv wp-block-embed is-type-video layout-column-2">
+		https://wordpress.tv/2017/10/04/takayuki-miyauchi-wordpress-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89/
+	</figure>
+	<!-- /wp:core-embed/wordpress-tv -->
 </div>
-</section>
-<!-- /wp:core/text-columns -->
-<p>&nbsp;</p>
-<!-- wp:core/text-columns {"width":"center"} -->
-<section class="wp-block-text-columns aligncenter columns-2">
-<div class="wp-block-column">
-<p>https://wordpress.tv/2017/12/04/matt-mullenweg-state-of-the-word-2017/</p>
-</div>
-<div class="wp-block-column">
-<p>https://wordpress.tv/2017/10/04/takayuki-miyauchi-wordpress-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89/</p>
-</div>
-</section>
-<!-- /wp:core/text-columns -->
-<p>&nbsp;</p>
-<!-- wp:core/image {"id":170,"align":"wide"} -->
-<figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/wordfes-opening-talk.jpg" alt="" /></figure>
-<!-- /wp:core/image -->
-<p>&nbsp;</p>
-<!-- wp:core/heading {"align":"center","className":"headline"} -->
-<h2 class="headline" style="text-align: center;">利用者の声</h2>
-<!-- /wp:core/heading -->
-<p>&nbsp;</p>
-<!-- wp:core/quote {"className":"users-voice-block"} -->
-<blockquote class="wp-block-quote users-voice-block">
-<p>エキサイティングな気持ち！</p>
-<cite>大阪府在住　ゴウテンさん</cite></blockquote>
-<!-- /wp:core/quote -->
-<p>&nbsp;</p>
-<!-- wp:core/quote {"className":"users-voice-block"} -->
-<blockquote class="wp-block-quote users-voice-block">
-<p>最高だ！</p>
-<cite>愛知県在住　オノさん</cite></blockquote>
-<!-- /wp:core/quote -->
-<p>&nbsp;</p>
-<!-- wp:core/heading {"align":"center","className":"headline"} -->
-<h2 class="headline" style="text-align: center;">お問い合わせ</h2>
-<!-- /wp:core/heading -->
-<p>&nbsp;</p>
-<!-- wp:core/shortcode -->
-<p>[contact-form-7 id="71" title="コンタクトフォーム 1"]</p>
-<!-- /wp:core/shortcode -->
-<p>&nbsp;</p>
-<!-- wp:core/image {"id":83,"align":"center","width":294,"height":20,"className":""} -->
-<figure class="wp-block-image aligncenter" style="width: 294px;"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/step02_import-images/codeispoetry-rgb.png" alt="" width="294" height="20" /></figure>
-<!-- /wp:core/image -->
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":30,"align":"wide"} -->
+<figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-opening-talk.jpg" alt="" class="wp-image-30" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 style="text-align:center">利用者の声</h2>
+<!-- /wp:heading -->
+
+<!-- wp:pullquote {"className":"users-voice-block"} -->
+<blockquote class="wp-block-pullquote alignnone users-voice-block">
+	<p>エキサイティングな気持ち！<br/></p><cite>大阪府在住　ゴウテンさん</cite></blockquote>
+<!-- /wp:pullquote -->
+
+<!-- wp:pullquote {"className":"users-voice-block"} -->
+<blockquote class="wp-block-pullquote alignnone users-voice-block">
+	<p>最高だ！</p><cite>愛知県在住　オノさん</cite></blockquote>
+<!-- /wp:pullquote -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 style="text-align:center">お問い合わせ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:shortcode -->
+[contact-form-7 id="7" title="コンタクトフォーム 1"]
+<!-- /wp:shortcode -->
+
+<!-- wp:image {"id":28,"align":"center","width":250,"height":17} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//codeispoetry-rgb.png" alt="" class="wp-image-28" width="250" height="17" /></figure>
+<!-- /wp:image -->
