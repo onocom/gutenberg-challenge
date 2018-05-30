@@ -14,7 +14,7 @@ add_action( 'wp_enqueue_scripts', 'lp_enqueue_scripts' );
  * https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#editor-styles
  */
 function lp_block_editor_styles() {
-	wp_enqueue_style( 'gutenberg-block-editor-style', get_template_directory_uri() . '/blocks.css');
+	wp_enqueue_style( 'lp-block-editor-style', get_template_directory_uri() . '/blocks.css');
 }
 add_action( 'enqueue_block_editor_assets', 'lp_block_editor_styles' );
 
