@@ -40,8 +40,8 @@
 <figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-opening-talk.jpg" alt="" class="wp-image-30" /></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"align":"center"} -->
-<h2 style="text-align:center">利用者の声</h2>
+<!-- wp:heading {"align":"center","className":"heading-block"} -->
+<h2 style="text-align:center" class="heading-block">利用者の声</h2>
 <!-- /wp:heading -->
 
 <!-- wp:pullquote {"className":"users-voice-block"} -->
@@ -54,8 +54,8 @@
 	<p>最高だ！</p><cite>愛知県在住　オノさん</cite></blockquote>
 <!-- /wp:pullquote -->
 
-<!-- wp:heading {"align":"center"} -->
-<h2 style="text-align:center">お問い合わせ</h2>
+<!-- wp:heading {"align":"center","className":"heading-block"} -->
+<h2 style="text-align:center" class="heading-block">お問い合わせ</h2>
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
