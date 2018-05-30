@@ -1,6 +1,6 @@
 <?php
 /**
- * Style Load
+ * Frontend Style Load
  */
 function lp_enqueue_scripts() {
 	wp_enqueue_style( 'lp-style', get_stylesheet_uri() );
@@ -10,7 +10,7 @@ add_action( 'wp_enqueue_scripts', 'lp_enqueue_scripts' );
 
 
 /**
- * Editor style Load
+ * Editor Style Load
  * https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#editor-styles
  */
 function lp_block_editor_styles() {
