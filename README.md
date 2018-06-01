@@ -26,8 +26,15 @@ https://github.com/onocom/gutenberg-challenge
 00_data/step02_import-images ディレクトリ内の画像をメディアライブラリにすべてアップロードします。
 ### テーマを有効化する
 Gutenberg Challenge テーマを有効化します。
-### Gutenbergエディタを使ってページを作る
+### Gutenbergエディターを使ってページを作る
 完成予定のデザインを照らし合わせながら、Gutenbergの各ブロックを駆使してページを作りましょう。
 Gutenbergだけでは完成形には出来ないと思うので、blocks.css内のクラスを適宜設定してあげてください。
 ### 完成例を見て、自分の作ったページと比べてみる
-00_data/step99_finish-data ディレクトリ内の「finish-data.txt」を開き、すべての内容をコピーして、新規固定ページのCodeEditorにて貼り付けると、完成例を見ることが出来ます。自分が作ったページと比べてみましょう。
+00_data/step99_finish-data ディレクトリ内の「finish-data.txt」を開き、すべての内容をコピーします。
+その後、新規ページのコードエディターモードで貼り付けると、完成例を見ることが出来ます。自分が作ったページと比べてみましょう。
+## 勉強会でこのテーマを使いたい！
+ぜひぜひ！どうぞ好きに使って下さい。
+Gutenberg Challenge を解説するためのページテンプレートを同梱したプラグインを以下で配布しているのでもしよければこちらを活用下さい。
+
+- Gutenberg Challenge Introduction 
+https://github.com/onocom/gutenberg-challenge-introduction
