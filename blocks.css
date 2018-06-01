@@ -3,30 +3,30 @@
  */
 
 /**
- * ワイド幅、全幅のスタイル定義
+ * 幅広、全幅のスタイル定義
  */
 
-.alignwide {
-	width: calc(100% + 200px);
-	margin: 0 0 1rem -100px;
+@media (min-width: 1170px) {
+	.alignwide {
+		width: calc(100% + 200px);
+		margin: 0 0 1rem -100px;
+	}
 }
 
 .alignfull {
 	width: 100vw;
-	position: relative;
-	left: 50%;
-	right: 50%;
-	margin-left: -50vw;
-	margin-right: -50vw;
+	margin-right: calc(50% - 50vw);
+	margin-left: calc(50% - 50vw);
 	text-align: center;
 }
 
+.alignwide img,
 .alignfull img {
-	display: block;
-	margin: 0 auto;
-	max-width: 100vw;
-	height: auto;
+	width: 100vw;
+	object-fit: cover;
+	margin:0;
 }
+
 
 /**
  * カラーパレットの背景色を定義
@@ -90,6 +90,7 @@
 }
 
 .main-visual-block .wp-block-cover-image-text img {
+	max-width: 400px;
 	display: block;
 	margin: 0 auto 20px auto;
 }

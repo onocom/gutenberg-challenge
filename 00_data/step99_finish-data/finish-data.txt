@@ -1,6 +1,6 @@
-<!-- wp:cover-image {"url":"https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images/wordfes-lightning-talk.jpg","align":"full","id":29,"hasParallax":true,"dimRatio":30,"className":"main-visual-block"} -->
-<div class="wp-block-cover-image has-background-dim-30 has-background-dim has-parallax alignfull main-visual-block" style="background-image:url(https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images/wordfes-lightning-talk.jpg)">
-	<p class="wp-block-cover-image-text"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images/wordpress-logo-stacked-rgb.png" alt="" width="373" height="232" /><br/>WordPressは美しいサイトやブログ、アプリを作るためのオープンソースソフトウェアです。</p>
+<!-- wp:cover-image {"url":"https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-lightning-talk.jpg","align":"full","id":29,"hasParallax":true,"dimRatio":30,"className":"main-visual-block"} -->
+<div class="wp-block-cover-image has-background-dim-30 has-background-dim has-parallax alignfull main-visual-block" style="background-image:url(https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-lightning-talk.jpg)">
+	<p class="wp-block-cover-image-text"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordpress-logo-stacked-rgb.png" alt="" width="373" height="232" /><br/>WordPressは美しいサイトやブログ、アプリを作るためのオープンソースソフトウェアです。</p>
 </div>
 <!-- /wp:cover-image -->
 
@@ -37,7 +37,7 @@
 <!-- /wp:columns -->
 
 <!-- wp:image {"id":30,"align":"wide"} -->
-<figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images/wordfes-opening-talk.jpg" alt="" class="wp-image-30" /></figure>
+<figure class="wp-block-image alignwide"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//wordfes-opening-talk.jpg" alt="" class="wp-image-30" /></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"align":"center","className":"heading-block"} -->
@@ -63,5 +63,5 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:image {"id":28,"align":"center","width":250,"height":17} -->
-<figure class="wp-block-image aligncenter is-resized"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images/codeispoetry-rgb.png" alt="" class="wp-image-28" width="250" height="17" /></figure>
+<figure class="wp-block-image aligncenter is-resized"><img src="https://raw.githubusercontent.com/onocom/gutenberg-challenge/master/00_data/step02_import-images//codeispoetry-rgb.png" alt="" class="wp-image-28" width="250" height="17" /></figure>
 <!-- /wp:image -->
