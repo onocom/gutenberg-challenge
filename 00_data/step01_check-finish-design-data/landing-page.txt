@@ -23,4 +23,4 @@ https://wordpress.tv/2017/10/04/takayuki-miyauchi-wordpress-%E3%83%97%E3%83%AD%E
 
 お問い合わせ
 
-[contact-form-7 id="71" title="コンタクトフォーム 1"]
+[contact-form-7 id="769" title="コンタクトフォーム"]
