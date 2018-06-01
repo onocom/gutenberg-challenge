@@ -59,7 +59,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:shortcode -->
-[contact-form-7 id="71" title="コンタクトフォーム 1"]
+[contact-form-7 id="769" title="コンタクトフォーム"]
 <!-- /wp:shortcode -->
 
 <!-- wp:image {"id":28,"align":"center","width":250,"height":17} -->
