@@ -36,18 +36,22 @@ function lp_setup_theme() {
 	add_theme_support( 'editor-color-palette',
 		array(
 			'name' => 'Blue',
+			'slug' => 'my-blue',
 			'color' => '#21759b',
 		),
 		array(
 			'name' => 'Orange',
+			'slug' => 'my-orange',
 			'color' => '#d54e21',
 		),
 		array(
 			'name' => 'Gray',
+			'slug' => 'my-gray',
 			'color' => '#464646',
 		),
 		array(
 			'name' => 'White',
+			'slug' => 'my-white',
 			'color' => '#ffffff',
 		)
 	);
@@ -56,7 +60,7 @@ function lp_setup_theme() {
 	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#disabling-custom-colors-in-block-color-palettes
 	add_theme_support( 'disable-custom-colors' );
 
-	
+
 }
 add_action( 'after_setup_theme', 'lp_setup_theme' );
 

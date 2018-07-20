@@ -33,35 +33,35 @@
  * https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#block-color-palettes
  */
 
-.has-blue-background-color {
+.has-my-blue-background-color {
 	background-color: #21759b;
 }
 
-.has-blue-color {
+.has-my-blue-color {
 	color: #21759b;
 }
 
-.has-orange-background-color {
+.has-my-orange-background-color {
 	background-color: #d54e21;
 }
 
-.has-orange-color {
+.has-my-orange-color {
 	color: #d54e21;
 }
 
-.has-gray-background-color {
+.has-my-gray-background-color {
 	background-color: #464646;
 }
 
-.has-gray-color {
+.has-my-gray-color {
 	color: #464646;
 }
 
-.has-white-background-color {
+.has-my-white-background-color {
 	background-color: #ffffff;
 }
 
-.has-white-color {
+.has-my-white-color {
 	color: #ffffff;
 }
 
