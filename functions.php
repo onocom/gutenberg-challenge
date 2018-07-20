@@ -60,6 +60,9 @@ function lp_setup_theme() {
 	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#disabling-custom-colors-in-block-color-palettes
 	add_theme_support( 'disable-custom-colors' );
 
+	// Gutenberg Default block styles
+	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#default-block-styles
+	add_theme_support( 'wp-block-styles' );
 
 }
 add_action( 'after_setup_theme', 'lp_setup_theme' );
