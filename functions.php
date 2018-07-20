@@ -64,7 +64,7 @@ function lp_setup_theme() {
 
 	// Gutenberg Default block styles
 	// https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#default-block-styles
-	add_theme_support( 'wp-block-styles' );
+	// add_theme_support( 'wp-block-styles' );
 
 }
 add_action( 'after_setup_theme', 'lp_setup_theme' );
